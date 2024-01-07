@@ -1,0 +1,10 @@
+[33mcommit 10a99ef1f227c460ae41f22af8546c34fbee9e74[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Devesh Namdeo <deveshnamdeo02@gmail.com>
+Date:   Sun Jan 7 11:22:19 2024 +0530
+
+    lets start the Project
+
+[1mdiff --git a/README.md b/README.md[m
+[1mnew file mode 100644[m
+[1mindex 0000000..508f0cb[m
+Binary files /dev/null and b/README.md differ
